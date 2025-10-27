@@ -1,0 +1,5 @@
+EMAIL_USER=jenistajones2006@gmail.com
+EMAIL_PASS=vkde bcxm ypjk qpsw
+
+MONGO_URI=mongodb://127.0.0.1:27017/emailReminderDB
+PORT=3000
